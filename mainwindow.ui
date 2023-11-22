@@ -30,7 +30,7 @@ text-decoration: underline;
 font: 63 8pt &quot;Segoe UI Variable Text Semibold&quot;;</string>
     </property>
     <property name="currentIndex">
-     <number>5</number>
+     <number>0</number>
     </property>
     <widget class="QWidget" name="tab">
      <attribute name="title">
